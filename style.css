@@ -3,6 +3,7 @@
 body, html{
     pad: 0;
     margin: 0;
+    padding: 20px
 }
 
 body{
@@ -15,8 +16,7 @@ body{
 }
 
 .contaner{
-    background: #f3f3f3;
-    padding-left: 20px;
+    background: #f3f3f3
 }
 
 .top{
